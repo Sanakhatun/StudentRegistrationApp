@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">StudentRegistrationApp</string>
+    <string name="first_name">First Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="emailId">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="please_enter_first_name">Please enter first name</string>
+    <string name="please_enter_last_name">Please enter last name</string>
+    <string name="only_alphanumeric_chaacters_are_allowed">Sorry, only letters (a-z), numbers (0-9), and periods (.) are allowed</string>
+    <string name="please_enter_mobile_number">Please Enter 10 digit Mobile Number</string>
+    <string name="please_confirm_your_password">Please confirm your password</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_atleast_min_character_password">Please enter atleast 8 characters or more</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_valid_email">Please enter valid email</string>
+    <string name="password_not_match">Passwords didn\'t match. Try again.</string>
+    <string name="only_use_alphanumeric_password">Only use letters, numbers and common punctuation characters</string>
+
+    <!-- Error Messages -->
+
 </resources>
